@@ -32,10 +32,10 @@
 
 ## 📌 Featured Projects
 🔗 **Portfolio**  
-👉 https://webdeveloper-portfolio.netlify.app/
+👉 https://raju-webdeveloper-portfolio.netlify.app/
 
 🔗 **GitHub Projects**  
-👉 https://github.com/innovation-tech
+👉 https://github.com/raju-innovation-tech
 
 - ✅ YouTube Clone (HTML, CSS, JS)
 - ✅ AI Task Automation using n8n + OpenAI
@@ -51,5 +51,5 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: linkedin.com/in/fullstackdeveloper
-- 📧 Email: nike456@gmail.com
+- 💼 LinkedIn: linkedin.com/in/raju-kumar-fullstackdeveloper/ 
+- 📧 Email: rkmaury860@gmail.com
